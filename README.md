@@ -1,7 +1,5 @@
 ## Food Delivery Data Analysis – Jupyter Notebook
 
-This repository contains a Jupyter Notebook created using Google Colab
-and exported as a `.ipynb` file.
 
 The notebook includes:
 - Data loading from CSV, JSON, and SQL
